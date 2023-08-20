@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, I'm Sedhupathi R. You can call me Sedhu
 
-<!--
-**Sedhupathi1411/Sedhupathi1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Yeah, I have alternative personalities, just like **The Batman**.
+![batman](https://github.com/Sedhupathi1411/Sedhupathi1411/assets/53770337/b5ecee62-329e-4f78-940f-8c7cd77d5e36)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+I'm a Full Stack Developer 🐱‍💻 in the day,
+And a poet in the night 🌃.
+
+Read some of my poems [here](https://sedhupathi.web.app/poems), if you're interested.
+
+<br />
+
+*My Hobbies?* Just reading books, being or talking with friends and all.
+Other than that, it's just
+```js
+while (life.left >= 0) {
+  if (bored) code();
+  else code();
+}
+```
