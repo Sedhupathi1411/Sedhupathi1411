@@ -4,7 +4,6 @@
 
 Yeah, I have an alter ego, just like **The Batman**.
 ![image](https://github.com/Sedhupathi1411/Sedhupathi1411/assets/53770337/eddba795-b1e9-4c14-8b19-85de2821bff2)
-
 I'm a Full Stack Developer 🐱‍💻 in the day,
 And a poet in the night 🌃. <br />
 (Actually a student for most of the day)
