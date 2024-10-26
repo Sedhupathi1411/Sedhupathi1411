@@ -1,22 +1,24 @@
-### Hi there 👋, I'm Sedhupathi R. You can call me "Sedhu"
+![👋 Hi, my name is Sedhupathi R](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg)
 
-<br />
+# 👋 Hi, my name is Sedhupathi R
 
-Yeah, I have an alter ego, just like **The Batman**.
-![image](https://github.com/Sedhupathi1411/Sedhupathi1411/assets/53770337/eddba795-b1e9-4c14-8b19-85de2821bff2)
-I'm a Full Stack Developer 🐱‍💻 in the day,
-And a poet in the night 🌃. <br />
-(Actually a student for most of the day)
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedhupathi1411) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sedhupathi1411) 
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sedhupathi1411) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sedhupathi1411)
 
-Read some of my poems [here](https://sedhupathi.web.app/poems), if you're interested.
+### Hey, I’m a creator at heart!
+**There’s nothing I enjoy more than bringing ideas to life through code**. Whether it’s crafting apps, designing websites, or building games, I’m always excited to create something new. Code is my favorite tool, and I love using it to make cool, fun, and useful things!
 
-<br />
+### Rapid Fire
+- 🌱 I'm currently learning: **📚 Experimenting with Deno.js and building small games with Phaser and Babylon.js**
+- ⚡ Fun fact: **🎢 I once debugged a silly issue for a whole day. Just kidding, it happens more than once! 🥶**
+- 📂 Portfolio: [https://sedhupathi.web.app/](https://sedhupathi.web.app/)
+- 📝 Blog: [https://sedhupathi.vercel.app/](https://sedhupathi.vercel.app/)
 
-*My Hobbies?* Just reading books, being or talking with friends and all.
-Other than that, it's just
-```js
-while (life.left >= 0) {
-  if (bored) code();
-  else code();
-}
-```
+### Skills
+- HTML, CSS
+- Most of those that runs with JS (Angular, React, NodeJS, ExpressJS, etc.)
+- React native, flutter
+- little bit of other things too
