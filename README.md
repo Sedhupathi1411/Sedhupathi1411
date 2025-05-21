@@ -12,10 +12,9 @@
 **There’s nothing I enjoy more than bringing ideas to life through code**. Whether it’s crafting apps, designing websites, or building games, I’m always excited to create something new. Code is my favorite tool, and I love using it to make cool, fun, and useful things!
 
 ### Rapid Fire
-- 🌱 I'm currently learning: **📚 Experimenting with Deno.js and building small games with Phaser and Babylon.js**
+- 🌱 I'm currently learning: **📚 Learning Flutter best practices & testing with lot's of backend frameworks**
 - ⚡ Fun fact: **🎢 I once debugged a silly issue for a whole day. Just kidding, it happens more than once! 🥶**
 - 📂 Portfolio: [https://sedhupathi.web.app/](https://sedhupathi.web.app/)
-- 📝 Blog: [https://sedhupathi.vercel.app/](https://sedhupathi.vercel.app/)
 
 ### Skills
 - HTML, CSS
